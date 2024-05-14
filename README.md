@@ -1,6 +1,13 @@
 # 💫 About Me:
-I am Afnan K Salal.<br>I'm from Kerala, India.<br>Currently doing diploma in computer engineering.<br>I am a Full-stack Developer, AI Enthusiast, Digital Artist & Story Writer.<br>When im bored i either draw something or code. <br>My personal favorite languages are Python, JavaScript, Go & HolyC.<br>I'm currently working on multiple projects, feel free to support.<br>Oh and! im up for collaboration and freelancing <3
 
+- 👋 Hi, I'm Afnan K Salal from Kerala, India!
+- 🎓 Diploma in Computer Engineering
+- 💻 Full-stack Developer, AI Enthusiast, Digital Artist, Story Writer
+- ✏️ When bored: draw or code
+- 💖 Fav languages: Python, JavaScript, Go, HolyC
+- 🚀 Working on multiple projects
+- 🤝 Open for collaboration and freelancing
+- Let's create something awesome together!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Afnanksalal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Afnanksalal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Afnanksalal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Afnanksalal) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Afnanksalal) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Afnanksalal) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Afnanksalal) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Afnanksalal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Afnanksalal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Afnanksalal) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Afnanksalal) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Afnanksalal) 
