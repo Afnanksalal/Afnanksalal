@@ -1,4 +1,4 @@
-<h1 align="center">afnan k salal</h1>
+<h1 align="center">Afnan K Salal</h1>
 
 <p align="center">
   <code>i make computers do things. sometimes physical things too.</code>
@@ -9,7 +9,9 @@
 </p>
 
 
-### about
+## About
+
+<br>
 
 20, from Kerala.
 
@@ -20,9 +22,15 @@ reverse engineering, and occasionally a completely unrelated rabbit hole at 3 AM
 
 I don't really have a preferred layer of the stack.
 
+
+<br>
+
+
 ### currently occupying my life
 
-**[tokito](https://tokito.dev)**
+<br>
+
+### **[tokito](https://tokito.dev)**
 
 an AI-first PCB and schematic editor I'm building in Rust.
 
@@ -31,25 +39,16 @@ It's basically the result of me looking at existing EDA software and thinking
 
 <br>
 
-**[vtron](https://vtron.tech)**
+### **[vtron](https://vtron.tech)**
 
 my software and R&D studio.
 
 software, AI, electronics, prototypes, experiments, and projects that somehow
 outgrow the folder named `test/`.
 
+<br>
+
 ### things i've convinced computers to understand
-
-```text
-Rust        ███████████████░
-Python      ██████████████░░
-TypeScript  ████████████░░░░
-Go          ██████████░░░░░░
-C / C++     █████████░░░░░░░
-Kotlin      ██████░░░░░░░░░░
-```
-
-<sub>bars are completely made up. please do not cite them.</sub>
 
 <br>
 
@@ -61,15 +60,19 @@ Kotlin      ██████░░░░░░░░░░
 
 `esp32` · `raspberry pi` · `nxp` · `mqtt` · `lora`
 
-### some numbers github made up about me
+<br>
 
 ### some numbers github made up about me
+
+<br>
 
  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afnanksalal&theme=github_dark"
     width="100%"
   />
 </p>
+
+<br>
 
 <details>
 <summary><code>cat /var/log/afnan.log</code></summary>
