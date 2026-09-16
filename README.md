@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&center=true&vCenter=true&width=600&lines=software+%2F+hardware+%2F+whatever+is+in+between;currently+arguing+with+rustc;probably+overengineering+something;yes%2C+it+worked+on+my+machine" />
 </p>
 
----
 
 ### about
 
@@ -20,8 +19,6 @@ AI, systems, electronics, EDA, embedded stuff, compilers, computer vision,
 reverse engineering, and occasionally a completely unrelated rabbit hole at 3 AM.
 
 I don't really have a preferred layer of the stack.
-
----
 
 ### currently occupying my life
 
@@ -40,8 +37,6 @@ my software and R&D studio.
 
 software, AI, electronics, prototypes, experiments, and projects that somehow
 outgrow the folder named `test/`.
-
----
 
 ### things i've convinced computers to understand
 
@@ -66,23 +61,15 @@ Kotlin      ██████░░░░░░░░░░
 
 `esp32` · `raspberry pi` · `nxp` · `mqtt` · `lora`
 
----
+### some numbers github made up about me
 
 ### some numbers github made up about me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afnanksalal&show_icons=true&hide_border=true&theme=transparent&hide_title=true" height="155">
+ <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afnanksalal&theme=github_dark"
+    width="100%"
+  />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnanksalal&layout=compact&hide_border=true&theme=transparent&hide_title=true" height="145">
-</p>
-
-<sub>
-github language stats are mostly a measurement of which repository i forgot to ignore generated files in.
-</sub>
-
----
 
 <details>
 <summary><code>cat /var/log/afnan.log</code></summary>
@@ -125,15 +112,3 @@ things-i-do-not-have-time-for-but-will-build-anyway/
 ```
 
 </details>
-
----
-
-### the green squares
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afnanksalal&theme=github-compact&hide_border=true&area=false">
-</p>
-
-<sub>
-somewhere in kerala, probably looking at an error message that makes absolutely no sense.
-</sub>
